@@ -1,0 +1,15 @@
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\bin\Debug\GroupViewProject.exe.config
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\bin\Debug\GroupViewProject.exe
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\bin\Debug\GroupViewProject.pdb
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\GroupViewProject.csprojAssemblyReference.cache
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\MainWindow.g.cs
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\App.g.cs
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\GroupViewProject_MarkupCompile.cache
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\GroupViewProject_MarkupCompile.lref
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\MainWindow.baml
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\GroupViewProject.g.resources
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\GroupViewProject.Properties.Resources.resources
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\GroupViewProject.csproj.GenerateResource.cache
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\GroupViewProject.csproj.CoreCompileInputs.cache
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\GroupViewProject.exe
+C:\Users\Torunn\Desktop\Games\GroupViewProject-master\GroupViewProject\obj\Debug\GroupViewProject.pdb

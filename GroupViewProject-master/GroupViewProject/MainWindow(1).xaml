@@ -1,0 +1,28 @@
+﻿<Window x:Class="GroupViewProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GroupViewProject"
+        mc:Ignorable="d"
+        Title="Group" Height="393.061" Width="804.408">
+    <Canvas>
+        <Canvas.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFB09191" Offset="0"/>
+                <GradientStop Color="#FFFBF5F5" Offset="1"/>
+            </LinearGradientBrush>
+        </Canvas.Background>
+        <Label Content="Название специальности:" Canvas.Left="479" Canvas.Top="40" />
+        <TextBox x:Name="tbNameGroup" Height="33" Width="230" Canvas.Left="479" Canvas.Top="71" />
+        <TextBox x:Name="tbNumberGroup" Height="33" Width="230" Canvas.Left="479" Canvas.Top="148" />
+        <TextBox x:Name="tbCurator" Height="33" Width="230" Canvas.Left="479" Canvas.Top="234" />
+        <Label Content="Номер группы:" Canvas.Left="479" Canvas.Top="117" />
+        <Label Content="ФИО Куратора:" Canvas.Left="479" Canvas.Top="203" />
+        <Button x:Name="btnAdd" Content="Добавить" Height="44" Width="180" Canvas.Left="424" Canvas.Top="310" VerticalAlignment="Top" HorizontalAlignment="Center" Click="btnAdd_Click" Background="#FFD49494"/>
+        <Label Content="Список групп:" Canvas.Top="-1" />
+        <Button Content="Удалить" Canvas.Left="609" Canvas.Top="310" Width="75" Click="Button_Click" Background="#FFD49494"/>
+        <Button Content="Обновить" Canvas.Left="689" Canvas.Top="310" Width="75" Click="Button_Click_1" Background="#FFD49494"/>
+        <DataGrid x:Name="dbViewGroup" Height="337" Width="402" SelectionChanged="lvViewGroup_SelectionChanged" Canvas.Top="25"/>
+    </Canvas>
+</Window>
