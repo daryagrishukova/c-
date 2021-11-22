@@ -1,0 +1,25 @@
+﻿<Window x:Class="QuateProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QuateProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="524.036" Width="803.508">
+    <Grid>
+        <TextBlock Name="lblQuate"  FontFamily="Roboto" FontSize="20" Text="Цитата" TextWrapping="Wrap" Margin="10,10,27,379"/>
+        <Button x:Name="btnGetQuate" Width="200" Height="75"  Content="Получить Цитату" FontFamily="Roboto" FontSize="20" Margin="0,264,596,154" Click="btnGetQuate_Click"/>
+        <Button Content="Добавить в избранное" HorizontalAlignment="Left" Margin="615,330,0,0" VerticalAlignment="Top" Width="154" Height="31" Click="Button_Click_1"/>
+        <TextBlock x:Name="lblAutor"  FontFamily="Roboto" FontSize="20" Text="Автор" TextWrapping="Wrap" Margin="10,119,10,310" />
+        <TextBlock x:Name="lblLink"  FontFamily="Roboto" FontSize="20" Text="Источник" TextWrapping="Wrap" Margin="10,183,27,229"/>
+        <Button Content="Избранное" HorizontalAlignment="Left" Margin="397,374,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+
+
+
+
+
+
+
+    </Grid>
+</Window>
+
